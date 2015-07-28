@@ -2,6 +2,8 @@
 
 # SEIS-PROV Definition
 
+[![Join the chat at https://gitter.im/SeismicData/SEIS-PROV](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/SeismicData/SEIS-PROV?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository contains the sources to build the `SEIS-PROV` definition and
 documentation. Additionally it contains a reference implementation of a
 `SEIS-PROV` validator.
